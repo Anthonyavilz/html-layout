@@ -1,0 +1,75 @@
+.boxOne {
+    border-style: solid;
+    border-width: 5px;
+    height: 20vh;
+    margin-bottom: 30px;
+}
+
+.shapeOne {
+    height: 13vh;
+    width: 50px;
+    background-color: #7209d6;
+    position: absolute;
+    top: 4.5em;
+    left: 2.5vh;
+}
+
+.shapeTwo {
+    height: 18vh;
+    width: 20em;
+    background-color: green;
+    position: absolute;
+    top: 1.3em;
+    left: 11.5vh;
+}
+
+.shapeThree {
+    height: 18vh;
+    width: 18vh;
+    border-radius: 50%;
+    background-color: #5ab7ed;
+    position: absolute;
+    top: 1.3em;
+    left: 31em;
+}
+
+.boxTwo {
+    border-style: dotted;
+    border-width: 4.5px;
+    height: 35vh;
+    margin-bottom: 25px;
+}
+
+.innerBox {
+    background-color: #fafac3;
+    height: 17.5vh;
+    width: 85%;
+    box-shadow: 6px 7px 6px 4px rgba(0,0,0,0.76);
+    margin-top: 5em;
+    margin-left: 5em;
+}
+
+.boxThree {
+    border-style: outset;
+    border-width: 2px;
+    height: 28vh;
+    width: 50%;
+    margin: auto;
+    box-shadow: 3px 3px 3px -1px rgba(0,0,0,0.58)
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 9px;
+    color: #1e3d8a;
+    line-height: 1.5vh;
+}
+
+.strOne {
+    padding-top: 10vh;
+}
+
+.strTwo {
+    padding: .1vh;
+}

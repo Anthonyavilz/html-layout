@@ -1,0 +1,42 @@
+.rowOne {
+    background-color: #c7c7c7;
+    height: 10vh;
+}
+
+.boxOne{
+    height: 6vh;
+    width: 6vh;
+    background-color: #379bdf;
+    position: absolute;
+    top: 2vh;
+    left: 2vh;
+}
+
+.rowTwo {
+    background-color: #fafafa;
+    height: 30vh;
+    text-align: justify;
+    line-height: 3vh;
+    font-size: 23px;
+    padding: 6.5vh;
+}
+
+.rowFour{
+    height: 15vh;
+    background-color: #379bdf;
+}
+
+.rowFive {
+    height: 15vh;
+    background-color: #3ed8be;
+}
+
+.rowSix {
+    height: 15vh;
+    background-color: #bee68e;
+}
+
+.rowSeven{
+    height: 15vh;
+    background-color: #f8ee65;
+}
